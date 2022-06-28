@@ -1,3 +1,3 @@
-# learning
+<<<<<<< HEAD
 
-This file has been changed manually. Edited locally.
+This was was chnaged manually during conflict resolution.
